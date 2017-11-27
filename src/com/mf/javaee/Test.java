@@ -24,7 +24,7 @@ public class Test {
 		l.add("9");
 		l.add("1沃尔特委托0");
 		l.add("11");
-		l.add("12");
+		l.add("12撒旦法师打发斯蒂芬");
 		System.out.println(l.size());
 		
 		
