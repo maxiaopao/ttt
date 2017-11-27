@@ -22,7 +22,7 @@ public class Test {
 		l.add("7");
 		l.add("8");
 		l.add("9");
-		l.add("10");
+		l.add("1沃尔特委托0");
 		l.add("11");
 		l.add("12");
 		System.out.println(l.size());
